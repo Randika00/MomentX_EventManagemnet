@@ -1,5 +1,5 @@
 ## Event_Management_System 
-This system developed in PHP, MySQL,HTML,JavaScript,CSS
+This system developed in PHP, MySQL,HTML5,JavaScript,CSS
 
 To Run:
 1) create an SQL database "feedback"
