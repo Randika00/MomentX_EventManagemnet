@@ -11,4 +11,4 @@ To Run:
 The primary objective of this system was to deliver its event planning services just how the clients had expected. The web application leverages a central
 database on the server to do all tasks required for the process. It will also increase the degree of effectiveness and quality at its operation while simultaneously implementing a system for inventory control to streamline operations.Due to this approach, both customers and employees of the firm can accomplish their responsibilities more quickly. This approach provides safe and user-friendly interfaces.
 Using PHP for server side programming, HTML, CSS, and JavaScript, a web application has been built effectively here. A MySQL database represents 
-where the server's database is maintained.
+where the server's database is maintained. 
