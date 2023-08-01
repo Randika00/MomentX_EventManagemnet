@@ -1,5 +1,4 @@
 ## Event_Management_System 
-# School-Management-System
 This system developed in PHP, MySQL,HTML5,JavaScript,CSS
 
 To Run:
